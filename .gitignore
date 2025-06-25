@@ -4,3 +4,4 @@ __pycache__/
 index.faiss
 cleaned_output.txt
 .DS_Store
+sample.pdf
