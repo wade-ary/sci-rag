@@ -20,5 +20,6 @@ This pipeline can be adapted for domain-specific applications such as legal, fin
 ```
 python main.py -path path/to/pdf -query "your query"
 ```
+Example Response run with sample.pdf can be found under response.txt
 
 
