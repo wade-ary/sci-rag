@@ -13,7 +13,7 @@ This setup allows for efficient and accurate academic question answering, even f
 
 Ideal for research assistance, literature reviews, or question answering from long-form academic documents.
 
-This pipeline can be adapted for domain-specific applications such as legal, financial, or medical document analysis by fine-tuning cleaning and retrival strategies and prompting techniques on sample documents.
+This pipeline can be adapted for domain-specific applications such as legal, financial, or medical document analysis by fine-tuning retrival strategies and prompting techniques on sample documents.
 
 ## Instructions to run:
 
