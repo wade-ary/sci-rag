@@ -1,4 +1,4 @@
-RAG PIPELINE FOR ACADEMIC PAPERS
+# RAG PIPELINE FOR ACADEMIC PAPERS
 
 This project is a Retrieval-Augmented Generation (RAG) pipeline designed to answer user queries based on academic papers. 
 The process begins by cleaning the PDF, This cleaned text is then split into smaller chunks, which are each embedded using OpenAI’s text-embedding-ada-002 model. 
@@ -12,3 +12,7 @@ Finally, these top 5 chunks, along with the original query, are passed to GPT-4 
 This setup allows for efficient and accurate academic question answering, even from long and complex documents.
 
 Ideal for research assistance, literature reviews, or question answering from long-form academic documents.
+
+## Instructions to run:
+
+
