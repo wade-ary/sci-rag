@@ -13,11 +13,12 @@ This setup allows for efficient and accurate academic question answering, even f
 
 Ideal for research assistance, literature reviews, or question answering from long-form academic documents.
 
+This pipeline can be adapted for domain-specific applications such as legal, financial, or medical document analysis by fine-tuning retrival strategies and prompting techniques on sample documents.
+
 ## Instructions to run:
 
-Install requirements
 ```
-python main.py --path path/to/pdf
+python main.py -path path/to/pdf -query "your query"
 ```
 
 
