@@ -1,0 +1,20 @@
+Key differences in trends  between Europe and North America
+The key differences between Europe and North America regarding long-term trends in attacks on public surface transportation are as follows:
+
+1. **Frequency of Attacks:**
+   - In Europe, attacks on trains and buses have been increasing since 1970, even though they remain fewer compared to regions like South Asia. Europe, with 10.6% of global attacks, sees more frequent incidents compared to North America.
+   - In contrast, North America has experienced far fewer attacks, with only 12 in the United States and four in Canada from 1970 to the present.
+
+2. **Lethality and Trends:**
+   - European attacks exhibit a decrease in overall lethality, with a significant disparity between the number of incidents and those with fatalities. This indicates more low-level attacks in Europe with decreasing lethality over time.
+   - In North America, there have been very few fatal attacks, suggesting a lower overall threat level compared to Europe.
+
+3. **Nature of Threats:**
+   - European attackers include both low-lethality groups such as anarchists and high-lethality groups like jihadists. Jihadist attacks account for 50% of all fatalities in Europe with a focus on achieving high body counts.
+   - North America has seen fewer jihadist attacks and more threats from isolated incidents, such as the 1993 Long Island commuter train shooting by a mentally disturbed individual.
+
+4. **Security Measures:**
+   - The thwarting of multiple plots in Europe suggests strong security measures and intelligence successes but also a persistent threat aimed at high casualties.
+   - In North America, the increase in thwarted plots could imply either strong security effectiveness or plotters lacking the capability to execute their plans.
+
+Overall, Europe experiences more frequent attacks with varied lethality and threat types, whereas North America has fewer incidents but remains vigilant against growing plots.

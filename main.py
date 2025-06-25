@@ -47,6 +47,12 @@ def main():
     summary = generate_summary(reranked_chunks, query)
     print(summary)
 
+    # Save query and response 
+    with open("response.txt", 'w', encoding='utf-8') as f:
+        f.write(f"Query: {query}\n")
+        f.write(f"{summary}\n")
+    print(f"\nQuery and response saved to response.txt")
+
 if __name__ == "__main__":
     main()
 
