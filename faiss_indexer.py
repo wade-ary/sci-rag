@@ -3,6 +3,9 @@ import faiss
 import numpy as np
 import os
 from openai import OpenAI
+from dotenv import load_dotenv
+load_dotenv()
+
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"),
     project=os.getenv("OPENAI_PROJECT_ID"),
@@ -22,7 +25,6 @@ def chunk_text(text, chunk_size=500):
         chunk = " ".join(words[i:i+chunk_size])
         chunks.append(chunk)
     return chunks
-
 
 
 def get_embedding(text, model="text-embedding-ada-002"):
