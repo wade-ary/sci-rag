@@ -15,4 +15,9 @@ Ideal for research assistance, literature reviews, or question answering from lo
 
 ## Instructions to run:
 
+Install requirements
+```
+python main.py --path path/to/pdf
+```
+
 
